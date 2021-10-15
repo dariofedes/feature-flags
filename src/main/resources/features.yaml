@@ -2,11 +2,3 @@ development:
   openai: true
   halloween: true
   christmas: true
-staging:
-  openai: true
-  halloween: true
-  christmas: true
-production:
-  openai: false
-  halloween: false
-  christmas: false

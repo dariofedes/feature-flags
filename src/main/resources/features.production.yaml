@@ -1,0 +1,4 @@
+production:
+  openai: false
+  halloween: false
+  christmas: false
